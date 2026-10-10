@@ -1,4 +1,3 @@
-Here is a comprehensive, professional, portfolio-ready README.md file for your GitHub repository. You can copy this directly into a new file named README.md in your project folder!
 
 Markdown
 # 🎌 Reddit Anime Sentiment Analysis & Web App
