@@ -56,7 +56,7 @@ User Interface: Streamlit
 ⚙️ How to Run Locally
 1. Clone the Repository
 Bash
-git clone [https://github.com/your-username/anime-sentiment-analysis.git](https://github.com/your-username/anime-sentiment-analysis.git)
+git clone [https://github.com/misawdxanime-sentiment-analysis.git](https://github.com/misawx/anime-sentiment-analysis.git)
 cd anime-sentiment-analysis
 2. Set Up a Virtual Environment & Install Dependencies
 Bash
